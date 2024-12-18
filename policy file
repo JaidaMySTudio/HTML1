@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #444;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Date of Last Version:</strong> November 25, 2024</p>
+
+        <h2>Introduction</h2>
+        <p>
+            World Martial Arts Center, inc., a Virginia limited liability company, (“World Martial Arts Center”) owns and operates the internet website available at 
+            <a href="https://www.happykicks.com/">https://www.happykicks.com/</a> (“Website”) and the application called “World Martial Arts Center” (“App”). 
+            Our Website and App are collectively hereinafter referred to as the “Application”. Unless the context requires otherwise, a reference to the “Application” 
+            includes all modifications, enhancements or updates thereto, and includes all associated printed, online or electronic documentation and instru
